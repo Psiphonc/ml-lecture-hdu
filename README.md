@@ -10,3 +10,7 @@
   - [Requirements](https://github.com/Psiphonc/ml-lecture-hdu/blob/master/hw3-neural-network/requirements.pdf)
   - [Colab](https://colab.research.google.com/github/Psiphonc/ml-lecture-hdu/blob/master/hw3-neural-network/solution.ipynb)
   - [PPT](https://github.com/Psiphonc/ml-lecture-hdu/blob/master/hw3-neural-network/Lec4_Nerual_Network.pdf)
+- Support Vector Machine
+  - [Requirements](https://github.com/Psiphonc/ml-lecture-hdu/blob/master/hw4-SVM/%E4%BD%9C%E4%B8%9A%E5%9B%9B%E8%A6%81%E6%B1%82.pdf)
+  - [Colab](https://colab.research.google.com/github/Psiphonc/ml-lecture-hdu/blob/master/hw4-SVM/solution.ipynb)
+  - [PPT](https://github.com/Psiphonc/ml-lecture-hdu/blob/master/hw4-SVM/Lec5%20%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BASVM.pdf)
