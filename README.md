@@ -18,4 +18,4 @@
   - [Requirements](https://github.com/Psiphonc/ml-lecture-hdu/blob/master/hw5-CNN/%E4%BD%9C%E4%B8%9A%E4%BA%94%E8%A6%81%E6%B1%82.pdf)
   - [Colab](https://colab.research.google.com/github/Psiphonc/ml-lecture-hdu/blob/master/hw5-CNN/solution.ipynb)
 
-[ML-Note(yuque)](https://www.yuque.com/psiphonc/esasak)
+[ML-Note(yuque)](https://www.yuque.com/books/share/9182d0b0-2027-40b1-807c-3096a4c58545?#)
